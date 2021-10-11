@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TipCalculatorApp</string>
+    <string name="bill_total">Bill Total:</string>
+    <string name="tip">Tip %:</string>
+    <string name="Percent_10">10%</string>
+    <string name="Percent_15">15%</string>
+    <string name="Percent_18">18%</string>
+    <string name="custom_label">Custom</string>
+    <string name="custom_new_label">Custom:</string>
+    <string name="Percent_40">40%</string>
+    <string name="tip_label">Tip:</string>
+    <string name="total_label">Total:</string>
+    <string name="split_by">Split By:</string>
+    <string name="one_button">One</string>
+    <string name="two_button">Two</string>
+    <string name="three_button">Three</string>
+    <string name="four_button">Four</string>
+    <string name="total_person">Total/Person:</string>
+    <string name="label_0_0">$0.0</string>
+    <string name="clear_label">Clear</string>
+    <string name="new_label_0_0">$0.0</string>
+    <string name="label_new_0_0">$0.0</string>
+</resources>
